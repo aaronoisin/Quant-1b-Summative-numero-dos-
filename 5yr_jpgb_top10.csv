@@ -1,0 +1,954 @@
+date,country,position,streams,track_id,artists,artist_genres,duration,explicit,name
+26/04/2018,jp,1,197044,0nrRP2bk19rLc0orkWPQk2,['Avicii'],"['pop rap', 'pop', 'pop dance', 'dance pop', 'edm']",247426,FALSE,Wake Me Up
+03/05/2018,jp,5,143780,0nrRP2bk19rLc0orkWPQk2,['Avicii'],"['pop rap', 'pop', 'pop dance', 'dance pop', 'edm']",247426,FALSE,Wake Me Up
+13/04/2017,gb,8,2227770,5Ohxk2dO5COHF1krpoPigN,['Harry Styles'],['pop'],340706,FALSE,Sign of the Times
+04/10/2018,gb,8,1744391,0E9ZjEAyAwOXZ7wJC0PD33,"['Dynoro', ""Gigi D'Agostino""]","['eurodance', 'europop', 'pop dance', 'electro house', 'italo dance', 'tropical house', 'edm']",184560,FALSE,In My Mind
+11/10/2018,gb,7,1976971,0E9ZjEAyAwOXZ7wJC0PD33,"['Dynoro', ""Gigi D'Agostino""]","['eurodance', 'europop', 'pop dance', 'electro house', 'italo dance', 'tropical house', 'edm']",184560,FALSE,In My Mind
+18/10/2018,gb,9,2020649,0E9ZjEAyAwOXZ7wJC0PD33,"['Dynoro', ""Gigi D'Agostino""]","['eurodance', 'europop', 'pop dance', 'electro house', 'italo dance', 'tropical house', 'edm']",184560,FALSE,In My Mind
+07/06/2018,gb,9,2023595,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+14/06/2018,gb,4,2556210,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+21/06/2018,gb,3,2644250,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+28/06/2018,gb,2,3169795,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+05/07/2018,gb,6,2943997,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+12/07/2018,gb,5,2939439,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+19/07/2018,gb,4,2837788,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+26/07/2018,gb,7,2717006,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+02/08/2018,gb,7,2260543,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+09/08/2018,gb,9,2138509,6kPJZM97LwdG9QIsT7khp6,"['Clean Bandit', 'Demi Lovato']","['pop', 'uk funky', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",222653,FALSE,Solo (feat. Demi Lovato)
+26/11/2020,jp,9,1200957,7AIj86wFWqm7X1TZ2hzHwS,['Masaki Suda'],"['anime rock', 'j-pop', 'japanese punk rock']",258733,FALSE,虹
+03/12/2020,jp,5,1496443,7AIj86wFWqm7X1TZ2hzHwS,['Masaki Suda'],"['anime rock', 'j-pop', 'japanese punk rock']",258733,FALSE,虹
+10/12/2020,jp,5,1619282,7AIj86wFWqm7X1TZ2hzHwS,['Masaki Suda'],"['anime rock', 'j-pop', 'japanese punk rock']",258733,FALSE,虹
+17/12/2020,jp,5,1567977,7AIj86wFWqm7X1TZ2hzHwS,['Masaki Suda'],"['anime rock', 'j-pop', 'japanese punk rock']",258733,FALSE,虹
+24/12/2020,jp,6,1526523,7AIj86wFWqm7X1TZ2hzHwS,['Masaki Suda'],"['anime rock', 'j-pop', 'japanese punk rock']",258733,FALSE,虹
+31/12/2020,jp,5,1492494,7AIj86wFWqm7X1TZ2hzHwS,['Masaki Suda'],"['anime rock', 'j-pop', 'japanese punk rock']",258733,FALSE,虹
+23/02/2017,gb,6,2173071,6PJ8FF6UR8FZXfEvpHkIVN,['Ed Sheeran'],"['pop', 'uk pop']",280533,FALSE,How Would You Feel (Paean)
+09/03/2017,gb,10,3994508,6PJ8FF6UR8FZXfEvpHkIVN,['Ed Sheeran'],"['pop', 'uk pop']",280533,FALSE,How Would You Feel (Paean)
+21/06/2018,jp,4,125684,2CWnuF7ht55Ajyeg4WPvWu,['BLACKPINK'],"['k-pop', 'k-pop girl group']",209355,FALSE,DDU-DU DDU-DU - KR Ver.
+28/06/2018,jp,6,122183,2CWnuF7ht55Ajyeg4WPvWu,['BLACKPINK'],"['k-pop', 'k-pop girl group']",209355,FALSE,DDU-DU DDU-DU - KR Ver.
+17/03/2016,gb,6,2060258,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+24/03/2016,gb,4,2387225,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+31/03/2016,gb,3,2454762,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+07/04/2016,gb,2,2496010,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+14/04/2016,gb,2,2459530,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+21/04/2016,gb,3,2486199,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+28/04/2016,gb,3,2332462,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+05/05/2016,gb,4,2226145,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+12/05/2016,gb,5,2185647,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+19/05/2016,gb,7,1947825,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+26/05/2016,gb,8,1752644,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+02/06/2016,gb,8,1886892,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+09/06/2016,gb,10,1703550,4tCtwWceOPWzenK2HAIJSb,"['Fifth Harmony', 'Ty Dolla $ign']","['pop rap', 'southern hip hop', 'girl group', 'talent show', 'pop', 'uk pop', 'r&b', 'dance pop', 'trap soul', 'trap', 'hip hop', 'post-teen pop']",214480,FALSE,Work from Home (feat. Ty Dolla $ign)
+18/04/2019,gb,10,1896695,6TqXcAFInzjp0bODyvrWEq,"['Khalid', 'Disclosure']","['pop r&b', 'pop', 'house', 'uk dance', 'edm']",197573,FALSE,Talk (feat. Disclosure)
+25/04/2019,gb,10,2155207,6TqXcAFInzjp0bODyvrWEq,"['Khalid', 'Disclosure']","['pop r&b', 'pop', 'house', 'uk dance', 'edm']",197573,FALSE,Talk (feat. Disclosure)
+14/02/2019,gb,7,2653159,4SPu0Ql902hTVXkBoNIYtq,['Ariana Grande'],"['dance pop', 'pop']",182000,FALSE,NASA
+17/11/2016,gb,4,2405029,6fujklziTHa8uoM5OQSfIo,"['Rae Sremmurd', 'Gucci Mane']","['pop rap', 'mississippi hip hop', 'southern hip hop', 'gangster rap', 'melodic rap', 'dirty south rap', 'atl hip hop', 'trap', 'hip hop', 'rap']",291893,TRUE,Black Beatles
+24/11/2016,gb,1,3032307,6fujklziTHa8uoM5OQSfIo,"['Rae Sremmurd', 'Gucci Mane']","['pop rap', 'mississippi hip hop', 'southern hip hop', 'gangster rap', 'melodic rap', 'dirty south rap', 'atl hip hop', 'trap', 'hip hop', 'rap']",291893,TRUE,Black Beatles
+01/12/2016,gb,3,2833043,6fujklziTHa8uoM5OQSfIo,"['Rae Sremmurd', 'Gucci Mane']","['pop rap', 'mississippi hip hop', 'southern hip hop', 'gangster rap', 'melodic rap', 'dirty south rap', 'atl hip hop', 'trap', 'hip hop', 'rap']",291893,TRUE,Black Beatles
+08/12/2016,gb,3,2445490,6fujklziTHa8uoM5OQSfIo,"['Rae Sremmurd', 'Gucci Mane']","['pop rap', 'mississippi hip hop', 'southern hip hop', 'gangster rap', 'melodic rap', 'dirty south rap', 'atl hip hop', 'trap', 'hip hop', 'rap']",291893,TRUE,Black Beatles
+15/12/2016,gb,3,2139088,6fujklziTHa8uoM5OQSfIo,"['Rae Sremmurd', 'Gucci Mane']","['pop rap', 'mississippi hip hop', 'southern hip hop', 'gangster rap', 'melodic rap', 'dirty south rap', 'atl hip hop', 'trap', 'hip hop', 'rap']",291893,TRUE,Black Beatles
+22/12/2016,gb,6,1872124,6fujklziTHa8uoM5OQSfIo,"['Rae Sremmurd', 'Gucci Mane']","['pop rap', 'mississippi hip hop', 'southern hip hop', 'gangster rap', 'melodic rap', 'dirty south rap', 'atl hip hop', 'trap', 'hip hop', 'rap']",291893,TRUE,Black Beatles
+05/09/2019,gb,10,2036398,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+12/09/2019,gb,5,2288429,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+19/09/2019,gb,4,2395268,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+26/09/2019,gb,3,2274798,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+03/10/2019,gb,5,2253695,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+10/10/2019,gb,7,2239409,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+17/10/2019,gb,8,2023999,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+24/10/2019,gb,8,1884845,23GvTfcGK454ppLsts3W44,"['Young T & Bugsey', 'Aitch']","['manchester hip hop', 'uk hip hop', 'afroswing', 'nottingham hip hop']",214203,TRUE,Strike a Pose (feat. Aitch)
+07/12/2017,gb,3,2721653,1bhUWB0zJMIKr9yVPrkEuI,"['Ed Sheeran', 'Beyoncé']","['dance pop', 'r&b', 'pop', 'uk pop']",259550,FALSE,Perfect Duet (Ed Sheeran & Beyoncé)
+14/12/2017,gb,6,2000615,1bhUWB0zJMIKr9yVPrkEuI,"['Ed Sheeran', 'Beyoncé']","['dance pop', 'r&b', 'pop', 'uk pop']",259550,FALSE,Perfect Duet (Ed Sheeran & Beyoncé)
+21/12/2017,gb,8,1916422,1bhUWB0zJMIKr9yVPrkEuI,"['Ed Sheeran', 'Beyoncé']","['dance pop', 'r&b', 'pop', 'uk pop']",259550,FALSE,Perfect Duet (Ed Sheeran & Beyoncé)
+07/12/2017,jp,8,99909,1bhUWB0zJMIKr9yVPrkEuI,"['Ed Sheeran', 'Beyoncé']","['dance pop', 'r&b', 'pop', 'uk pop']",259550,FALSE,Perfect Duet (Ed Sheeran & Beyoncé)
+01/11/2018,jp,8,138113,13hvHEstJ4sNbzdroPrPI3,"['Dua Lipa', 'BLACKPINK']","['pop', 'k-pop', 'k-pop girl group', 'dance pop', 'uk pop']",190560,FALSE,Kiss and Make Up
+09/11/2017,gb,3,2607628,1mXVgsBdtIVeCLJnSnmtdV,['Sam Smith'],"['dance pop', 'pop', 'uk pop']",201000,FALSE,Too Good At Goodbyes
+16/11/2017,gb,3,2326285,1mXVgsBdtIVeCLJnSnmtdV,['Sam Smith'],"['dance pop', 'pop', 'uk pop']",201000,FALSE,Too Good At Goodbyes
+23/11/2017,gb,6,2043560,1mXVgsBdtIVeCLJnSnmtdV,['Sam Smith'],"['dance pop', 'pop', 'uk pop']",201000,FALSE,Too Good At Goodbyes
+09/11/2017,jp,10,99302,1mXVgsBdtIVeCLJnSnmtdV,['Sam Smith'],"['dance pop', 'pop', 'uk pop']",201000,FALSE,Too Good At Goodbyes
+23/05/2019,gb,10,2197253,0pEkK8MqbmGSX7fT8WLMbR,['Lewis Capaldi'],"['pop', 'uk pop']",185657,FALSE,Grace
+26/04/2018,jp,10,142037,5B03nSG8pLE48jh7kmasuL,['Avicii'],"['pop rap', 'dance pop', 'pop dance', 'edm', 'pop']",201920,FALSE,Levels - Radio Edit
+11/05/2017,gb,9,2253035,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+18/05/2017,gb,5,2578521,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+25/05/2017,gb,4,2980937,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+01/06/2017,gb,3,3143992,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+08/06/2017,gb,3,3076443,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+15/06/2017,gb,2,3214864,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+22/06/2017,gb,3,3510524,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+29/06/2017,gb,3,3304935,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+06/07/2017,gb,3,3343643,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+13/07/2017,gb,3,3232525,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+20/07/2017,gb,3,3244802,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+27/07/2017,gb,3,3218761,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+03/08/2017,gb,3,3014219,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+10/08/2017,gb,2,2816956,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+17/08/2017,gb,2,2732455,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+24/08/2017,gb,2,2593584,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+31/08/2017,gb,3,2489592,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+07/09/2017,gb,3,2345171,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+14/09/2017,gb,4,2221994,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+21/09/2017,gb,5,2143749,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+28/09/2017,gb,7,1958352,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+05/10/2017,gb,10,1740207,3B54sVLJ402zGa6Xm4YGNe,"['French Montana', 'Swae Lee']","['pop rap', 'southern hip hop', 'gangster rap', 'melodic rap', 'trap', 'hip hop', 'rap']",233901,TRUE,Unforgettable
+22/12/2016,gb,5,1914098,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+29/12/2016,gb,3,2351580,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+07/12/2017,gb,4,2572761,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+14/12/2017,gb,2,2675668,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+21/12/2017,gb,3,2992665,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+28/12/2017,gb,1,3840154,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+06/12/2018,gb,3,2781721,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+13/12/2018,gb,3,3084232,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+20/12/2018,gb,2,3467237,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+27/12/2018,gb,2,5088199,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+05/12/2019,gb,5,2745895,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+12/12/2019,gb,3,2907012,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+19/12/2019,gb,4,3229362,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+26/12/2019,gb,2,5411797,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+26/11/2020,gb,7,1760194,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+03/12/2020,gb,2,3497013,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+10/12/2020,gb,2,4090846,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+17/12/2020,gb,2,4029747,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+24/12/2020,gb,1,6216615,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+31/12/2020,gb,1,3220201,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+27/12/2018,jp,5,229416,2FRnf9qhLbvw8fu4IBXx78,['Wham!'],"['europop', 'new romantic', 'mellow gold', 'synthpop', 'disco', 'soft rock', 'new wave pop', 'dance pop', 'new wave']",262960,FALSE,Last Christmas
+18/10/2018,gb,10,2003628,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+25/10/2018,gb,6,2233421,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+01/11/2018,gb,4,2389910,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+08/11/2018,gb,3,2416132,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+15/11/2018,gb,3,2297106,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+22/11/2018,gb,5,1954311,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+29/11/2018,gb,8,1761104,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+07/03/2019,gb,9,1984056,2VxeLyX666F8uXCJ0dZF8B,"['Lady Gaga', 'Bradley Cooper']","['art pop', 'dance pop', 'pop', 'hollywood']",215733,FALSE,Shallow
+08/02/2018,gb,9,1781574,6tvQzeCPwOytDlBYCIOY0n,"['Jax Jones', 'Ina Wroldsen']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'house', 'uk dance', 'dance pop', 'tropical house', 'edm']",207629,FALSE,Breathe
+29/09/2016,gb,8,2049552,1vvNmPOiUuyCbgWmtc6yfm,['Calvin Harris'],"['pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",219159,FALSE,My Way
+06/10/2016,gb,8,2052537,1vvNmPOiUuyCbgWmtc6yfm,['Calvin Harris'],"['pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",219159,FALSE,My Way
+13/10/2016,gb,8,2013021,1vvNmPOiUuyCbgWmtc6yfm,['Calvin Harris'],"['pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",219159,FALSE,My Way
+20/10/2016,gb,9,2049157,1vvNmPOiUuyCbgWmtc6yfm,['Calvin Harris'],"['pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",219159,FALSE,My Way
+27/10/2016,gb,9,1879388,1vvNmPOiUuyCbgWmtc6yfm,['Calvin Harris'],"['pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",219159,FALSE,My Way
+18/08/2016,gb,5,2260098,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+25/08/2016,gb,3,2773901,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+01/09/2016,gb,1,3477699,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+08/09/2016,gb,1,4052290,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+15/09/2016,gb,1,4198660,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+22/09/2016,gb,1,4021116,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+29/09/2016,gb,1,3604857,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+06/10/2016,gb,2,3292202,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+13/10/2016,gb,3,3123759,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+20/10/2016,gb,3,2987724,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+27/10/2016,gb,3,2734454,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+03/11/2016,gb,4,2418144,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+10/11/2016,gb,5,2173142,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+17/11/2016,gb,6,2243383,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+24/11/2016,gb,6,2165324,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+01/12/2016,gb,5,2086019,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+08/12/2016,gb,7,1955543,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+15/12/2016,gb,9,1623957,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+05/01/2017,gb,9,1497438,7BKLCZ1jbUBVqRi2FVlTVw,"['The Chainsmokers', 'Halsey']","['pop', 'indie poptimism', 'etherpop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",244960,FALSE,Closer
+11/10/2018,gb,1,3361612,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+18/10/2018,gb,1,3145567,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+25/10/2018,gb,1,2896828,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+01/11/2018,gb,1,2506326,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+08/11/2018,gb,4,2376926,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+15/11/2018,gb,4,2252798,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+22/11/2018,gb,3,1999438,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+29/11/2018,gb,6,1830840,01IQ4aQgOf0Kkq3a273hmO,"['Dave', 'Fredo']","['uk hip hop', 'grime']",182741,TRUE,Funky Friday
+30/07/2020,gb,6,2118812,4pvb0WLRcMtbPGmtejJJ6y,"['Taylor Swift', 'Bon Iver']","['eau claire indie', 'pop', 'indie folk', 'melancholia']",285634,FALSE,exile (feat. Bon Iver)
+05/07/2018,gb,1,4344182,6G8kHiVZ1jW7vHMPVRNZU0,"['Drake', 'Michael Jackson']","['pop', 'canadian pop', 'toronto rap', 'r&b', 'soul', 'canadian hip hop', 'hip hop', 'rap']",245786,FALSE,Don’t Matter To Me (with Michael Jackson)
+12/07/2018,gb,2,3515659,6G8kHiVZ1jW7vHMPVRNZU0,"['Drake', 'Michael Jackson']","['pop', 'canadian pop', 'toronto rap', 'r&b', 'soul', 'canadian hip hop', 'hip hop', 'rap']",245786,FALSE,Don’t Matter To Me (with Michael Jackson)
+19/07/2018,gb,3,3329140,6G8kHiVZ1jW7vHMPVRNZU0,"['Drake', 'Michael Jackson']","['pop', 'canadian pop', 'toronto rap', 'r&b', 'soul', 'canadian hip hop', 'hip hop', 'rap']",245786,FALSE,Don’t Matter To Me (with Michael Jackson)
+26/07/2018,gb,5,2761631,6G8kHiVZ1jW7vHMPVRNZU0,"['Drake', 'Michael Jackson']","['pop', 'canadian pop', 'toronto rap', 'r&b', 'soul', 'canadian hip hop', 'hip hop', 'rap']",245786,FALSE,Don’t Matter To Me (with Michael Jackson)
+09/03/2017,gb,6,4778544,0tgVpDi06FyKpA1z0VMD4v,['Ed Sheeran'],"['pop', 'uk pop']",263400,FALSE,Perfect
+16/03/2017,gb,5,3552778,0tgVpDi06FyKpA1z0VMD4v,['Ed Sheeran'],"['pop', 'uk pop']",263400,FALSE,Perfect
+23/03/2017,gb,6,2522488,0tgVpDi06FyKpA1z0VMD4v,['Ed Sheeran'],"['pop', 'uk pop']",263400,FALSE,Perfect
+30/03/2017,gb,10,2160479,0tgVpDi06FyKpA1z0VMD4v,['Ed Sheeran'],"['pop', 'uk pop']",263400,FALSE,Perfect
+16/11/2017,gb,10,1777832,0tgVpDi06FyKpA1z0VMD4v,['Ed Sheeran'],"['pop', 'uk pop']",263400,FALSE,Perfect
+30/11/2017,gb,10,1730740,0tgVpDi06FyKpA1z0VMD4v,['Ed Sheeran'],"['pop', 'uk pop']",263400,FALSE,Perfect
+24/01/2019,gb,10,1604326,29R1IMTTbDDA3VNlk6UEW5,"['Jax Jones', 'Years & Years']","['pop', 'pop rap', 'uk pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'electropop', 'gauze pop', 'dance pop']",186240,FALSE,Play
+01/06/2017,gb,8,2467706,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+08/06/2017,gb,5,2714775,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+15/06/2017,gb,5,2855681,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+22/06/2017,gb,5,3197639,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+29/06/2017,gb,5,2829119,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+06/07/2017,gb,4,2850491,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+13/07/2017,gb,4,2703609,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+20/07/2017,gb,4,2616128,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+27/07/2017,gb,5,2571878,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+03/08/2017,gb,5,2357132,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+10/08/2017,gb,6,2124274,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+17/08/2017,gb,6,1993009,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+24/08/2017,gb,9,1813963,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+31/08/2017,jp,8,86066,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+07/09/2017,jp,7,86226,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+14/09/2017,jp,9,86577,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+28/09/2017,jp,10,79316,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+05/10/2017,jp,10,77858,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+12/10/2017,jp,8,79705,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+19/10/2017,jp,10,80278,0NiXXAI876aGImAd6rTj8w,"['Jonas Blue', 'William Singe']","['pop r&b', 'chill r&b', 'pop', 'urban contemporary', 'uk pop', 'post-teen pop', 'pop dance', 'r&b', 'uk dance', 'dance pop', 'tropical house', 'edm']",181614,FALSE,Mama
+14/02/2019,gb,1,5529501,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+21/02/2019,gb,1,4187215,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+28/02/2019,gb,1,3508138,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+07/03/2019,gb,2,3041558,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+14/03/2019,gb,3,2683642,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+21/03/2019,gb,4,2321204,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+28/03/2019,gb,5,2278051,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+04/04/2019,gb,9,2042586,4kV4N9D1iKVxx1KLvtTpjS,['Ariana Grande'],"['dance pop', 'pop']",190440,TRUE,"break up with your girlfriend, i'm bored"
+17/09/2020,gb,10,1723251,17bGtGqqaXOgVnhnfx5NlE,"['Paul Woolford', 'Diplo', 'Kareen Lomax']","['deep groove house', 'pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'moombahton', 'ninja', 'uk house']",211452,FALSE,Looking for Me
+24/09/2020,gb,9,1905096,17bGtGqqaXOgVnhnfx5NlE,"['Paul Woolford', 'Diplo', 'Kareen Lomax']","['deep groove house', 'pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'moombahton', 'ninja', 'uk house']",211452,FALSE,Looking for Me
+01/10/2020,gb,6,2000835,17bGtGqqaXOgVnhnfx5NlE,"['Paul Woolford', 'Diplo', 'Kareen Lomax']","['deep groove house', 'pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'moombahton', 'ninja', 'uk house']",211452,FALSE,Looking for Me
+08/10/2020,gb,7,1821667,17bGtGqqaXOgVnhnfx5NlE,"['Paul Woolford', 'Diplo', 'Kareen Lomax']","['deep groove house', 'pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'moombahton', 'ninja', 'uk house']",211452,FALSE,Looking for Me
+15/10/2020,gb,7,1763862,17bGtGqqaXOgVnhnfx5NlE,"['Paul Woolford', 'Diplo', 'Kareen Lomax']","['deep groove house', 'pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'moombahton', 'ninja', 'uk house']",211452,FALSE,Looking for Me
+22/10/2020,gb,7,1664446,17bGtGqqaXOgVnhnfx5NlE,"['Paul Woolford', 'Diplo', 'Kareen Lomax']","['deep groove house', 'pop', 'uk dance', 'edm', 'electro house', 'pop dance', 'house', 'tropical house', 'moombahton', 'ninja', 'uk house']",211452,FALSE,Looking for Me
+15/06/2017,gb,9,2191922,2OlWBmSjf1aUPGLNf0UI5A,['Ariana Grande'],"['dance pop', 'pop']",197266,FALSE,One Last Time
+28/07/2016,gb,1,3927260,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+04/08/2016,gb,1,4704264,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+11/08/2016,gb,1,4457111,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+18/08/2016,gb,1,4136477,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+25/08/2016,gb,1,3720558,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+01/09/2016,gb,2,3431185,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+08/09/2016,gb,2,3196166,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+15/09/2016,gb,2,3100377,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+22/09/2016,gb,2,2932327,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+29/09/2016,gb,4,2642540,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+06/10/2016,gb,4,2444167,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+13/10/2016,gb,5,2261671,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+20/10/2016,gb,6,2133447,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+27/10/2016,gb,8,1912778,6DNtNfH8hXkqOX1sjqmI7p,"['Major Lazer', 'Justin Bieber', 'MØ']","['pop rap', 'pop', 'canadian pop', 'danish pop', 'moombahton', 'uk pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'edm']",185351,FALSE,Cold Water (feat. Justin Bieber & MØ)
+07/05/2020,gb,4,2145433,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+14/05/2020,gb,1,2914720,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+21/05/2020,gb,1,3485110,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+28/05/2020,gb,1,3698713,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+04/06/2020,gb,1,3895916,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+11/06/2020,gb,1,3482941,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+18/06/2020,gb,1,3337026,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+25/06/2020,gb,1,3462874,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+02/07/2020,gb,1,3230509,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+09/07/2020,gb,1,3170946,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+16/07/2020,gb,1,2978477,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+23/07/2020,gb,2,2945381,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+30/07/2020,gb,3,2777768,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+06/08/2020,gb,2,2622930,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+13/08/2020,gb,2,2485936,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+20/08/2020,gb,5,2205238,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+27/08/2020,gb,7,2062753,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+03/09/2020,gb,8,1938753,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+10/09/2020,gb,8,1897741,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+17/09/2020,gb,8,1919753,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+24/09/2020,gb,10,1773134,7ytR5pFWmSjzHJIeQkgog4,"['DaBaby', 'Roddy Ricch']","['melodic rap', 'north carolina hip hop', 'trap', 'rap']",181733,TRUE,ROCKSTAR (feat. Roddy Ricch)
+14/03/2019,jp,4,263189,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+21/03/2019,jp,4,262185,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+28/03/2019,jp,4,264921,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+04/04/2019,jp,4,249271,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+11/04/2019,jp,6,242327,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+18/04/2019,jp,7,242351,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+25/04/2019,jp,7,237498,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+02/05/2019,jp,3,319055,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+09/05/2019,jp,2,325025,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+16/05/2019,jp,3,327454,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+23/05/2019,jp,2,346735,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+30/05/2019,jp,3,333693,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+06/06/2019,jp,3,336505,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+13/06/2019,jp,3,361250,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+20/06/2019,jp,3,380709,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+27/06/2019,jp,3,396833,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+04/07/2019,jp,4,415169,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+11/07/2019,jp,4,404850,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+18/07/2019,jp,4,405667,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+25/07/2019,jp,4,413683,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+01/08/2019,jp,4,420230,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+08/08/2019,jp,6,414555,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+15/08/2019,jp,6,428117,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+22/08/2019,jp,6,433602,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+29/08/2019,jp,5,451290,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+05/09/2019,jp,5,455032,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+12/09/2019,jp,5,471451,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+19/09/2019,jp,5,542010,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+26/09/2019,jp,5,509044,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+03/10/2019,jp,5,497382,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+10/10/2019,jp,6,492850,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+17/10/2019,jp,6,487719,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+24/10/2019,jp,5,599277,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+31/10/2019,jp,4,586595,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+07/11/2019,jp,5,577441,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+14/11/2019,jp,5,577563,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+21/11/2019,jp,4,631438,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+28/11/2019,jp,4,676014,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+05/12/2019,jp,2,815862,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+12/12/2019,jp,2,828297,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+19/12/2019,jp,2,829792,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+26/12/2019,jp,2,848424,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+02/01/2020,jp,2,969506,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+09/01/2020,jp,2,1118094,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+16/01/2020,jp,2,1266636,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+23/01/2020,jp,2,1518384,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+30/01/2020,jp,2,1337633,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+06/02/2020,jp,2,1167885,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+13/02/2020,jp,2,1179171,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+20/02/2020,jp,2,1255805,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+27/02/2020,jp,2,1238717,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+05/03/2020,jp,3,1204141,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+12/03/2020,jp,3,1185895,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+19/03/2020,jp,3,1176805,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+26/03/2020,jp,3,1179773,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+02/04/2020,jp,3,1097195,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+09/04/2020,jp,3,1028796,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+16/04/2020,jp,3,1024205,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+23/04/2020,jp,3,1025928,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+30/04/2020,jp,3,1027766,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+07/05/2020,jp,3,988814,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+14/05/2020,jp,3,966029,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+21/05/2020,jp,5,961346,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+28/05/2020,jp,5,992841,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+04/06/2020,jp,5,1009233,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+11/06/2020,jp,5,1008613,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+18/06/2020,jp,5,1008132,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+25/06/2020,jp,5,1047935,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+02/07/2020,jp,5,1024224,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+09/07/2020,jp,6,1012731,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+16/07/2020,jp,7,1031755,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+23/07/2020,jp,7,1009267,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+30/07/2020,jp,7,1021329,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+06/08/2020,jp,8,995378,4wel6DQu0dMVBRVn2ZTPoy,['King Gnu'],['j-pop'],276373,FALSE,白日
+14/07/2016,gb,5,1845419,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+21/07/2016,gb,6,2086589,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+28/07/2016,gb,5,2257088,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+04/08/2016,gb,5,2241792,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+11/08/2016,gb,6,2112591,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+18/08/2016,gb,8,2031704,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+25/08/2016,gb,9,1915993,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+01/09/2016,gb,7,1928102,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+08/09/2016,gb,5,1889758,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+15/09/2016,gb,6,1864342,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+22/09/2016,gb,10,1738958,1i1fxkWeaMmKEB4T7zqbzK,"['The Chainsmokers', 'Daya']","['pop', 'alt z', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",208373,FALSE,Don't Let Me Down
+31/05/2018,gb,8,1992565,083Qf6hn6sFL6xiOHlZUyn,['Jess Glynne'],"['pop', 'australian pop', 'uk pop', 'pop dance', 'dance pop', 'tropical house', 'post-teen pop']",193923,FALSE,I'll Be There
+07/06/2018,gb,7,2130298,083Qf6hn6sFL6xiOHlZUyn,['Jess Glynne'],"['pop', 'australian pop', 'uk pop', 'pop dance', 'dance pop', 'tropical house', 'post-teen pop']",193923,FALSE,I'll Be There
+14/06/2018,gb,7,2324417,083Qf6hn6sFL6xiOHlZUyn,['Jess Glynne'],"['pop', 'australian pop', 'uk pop', 'pop dance', 'dance pop', 'tropical house', 'post-teen pop']",193923,FALSE,I'll Be There
+21/06/2018,gb,9,2134164,083Qf6hn6sFL6xiOHlZUyn,['Jess Glynne'],"['pop', 'australian pop', 'uk pop', 'pop dance', 'dance pop', 'tropical house', 'post-teen pop']",193923,FALSE,I'll Be There
+28/06/2018,gb,8,2361920,083Qf6hn6sFL6xiOHlZUyn,['Jess Glynne'],"['pop', 'australian pop', 'uk pop', 'pop dance', 'dance pop', 'tropical house', 'post-teen pop']",193923,FALSE,I'll Be There
+14/03/2019,gb,10,1998064,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+21/03/2019,gb,10,1843962,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+28/03/2019,gb,9,1914281,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+11/04/2019,gb,10,1911856,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+18/04/2019,gb,9,1970979,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+02/05/2019,gb,10,1967220,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+13/06/2019,gb,10,1775789,3z4CGd63tpUn9a6oQSG0CI,"['Dave', 'Burna Boy']","['afro dancehall', 'nigerian pop', 'uk hip hop', 'dancehall', 'nigerian hip hop']",241293,TRUE,Location (feat. Burna Boy)
+02/11/2017,gb,9,1748966,6KfNna0zfHtWJJ803hFBWX,"['Mabel', 'Kojo Funds']","['uk dancehall', 'pop', 'uk pop', 'edm', 'post-teen pop', 'uk hip hop', 'afroswing', 'pop dance', 'tropical house', 'dance pop', 'grime']",269786,FALSE,Finders Keepers
+19/04/2018,jp,5,145423,5Ek40FyMPprcvtyZDjqylX,['TWICE'],"['k-pop', 'k-pop girl group']",208238,FALSE,What is Love?
+03/05/2018,jp,10,134242,5Ek40FyMPprcvtyZDjqylX,['TWICE'],"['k-pop', 'k-pop girl group']",208238,FALSE,What is Love?
+19/05/2016,gb,3,2331943,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+26/05/2016,gb,3,2457357,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+02/06/2016,gb,4,2414995,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+09/06/2016,gb,4,2301025,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+16/06/2016,gb,4,1977364,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+23/06/2016,gb,4,1965987,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+30/06/2016,gb,6,1845372,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+07/07/2016,gb,6,1869371,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+14/07/2016,gb,7,1714369,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+21/07/2016,gb,9,1806468,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+28/07/2016,gb,10,1783765,6JV2JOEocMgcZxYSZelKcc,['Justin Timberlake'],"['dance pop', 'pop']",236001,FALSE,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")"
+08/03/2018,gb,9,1798472,4qKcDkK6siZ7Jp1Jb4m0aL,"['BlocBoy JB', 'Drake']","['vapor trap', 'southern hip hop', 'canadian pop', 'viral rap', 'toronto rap', 'tennessee hip hop', 'memphis hip hop', 'canadian hip hop', 'trap', 'hip hop', 'rap']",181263,TRUE,Look Alive (feat. Drake)
+15/03/2018,gb,9,1874574,4qKcDkK6siZ7Jp1Jb4m0aL,"['BlocBoy JB', 'Drake']","['vapor trap', 'southern hip hop', 'canadian pop', 'viral rap', 'toronto rap', 'tennessee hip hop', 'memphis hip hop', 'canadian hip hop', 'trap', 'hip hop', 'rap']",181263,TRUE,Look Alive (feat. Drake)
+22/03/2018,gb,10,1862391,4qKcDkK6siZ7Jp1Jb4m0aL,"['BlocBoy JB', 'Drake']","['vapor trap', 'southern hip hop', 'canadian pop', 'viral rap', 'toronto rap', 'tennessee hip hop', 'memphis hip hop', 'canadian hip hop', 'trap', 'hip hop', 'rap']",181263,TRUE,Look Alive (feat. Drake)
+02/04/2020,gb,9,1633290,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+09/04/2020,gb,8,2020822,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+16/04/2020,gb,5,2098613,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+23/04/2020,gb,5,2087201,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+30/04/2020,gb,7,1961614,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+07/05/2020,gb,6,1953260,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+14/05/2020,gb,5,1950602,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+21/05/2020,gb,5,1956397,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+28/05/2020,gb,7,1886474,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+04/06/2020,gb,9,1753808,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+11/06/2020,gb,10,1533612,7eJMfftS33KTjuF7lTsMCx,"['Powfu', 'beabadoobee']","['indie pop', 'pop', 'sad rap', 'bedroom pop', 'bubblegrunge']",173333,FALSE,death bed (coffee for your head)
+25/06/2020,jp,9,765915,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+02/07/2020,jp,8,837751,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+09/07/2020,jp,7,959108,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+16/07/2020,jp,6,1047489,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+23/07/2020,jp,6,1027502,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+30/07/2020,jp,6,1108743,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+06/08/2020,jp,5,1144647,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+13/08/2020,jp,7,1225279,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+20/08/2020,jp,4,1300316,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+27/08/2020,jp,5,1227302,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+03/09/2020,jp,6,1246219,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+10/09/2020,jp,5,1348443,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+17/09/2020,jp,3,1574525,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+24/09/2020,jp,3,1670498,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+01/10/2020,jp,3,1536740,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+08/10/2020,jp,3,1451140,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+15/10/2020,jp,3,1404820,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+22/10/2020,jp,4,1397090,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+29/10/2020,jp,4,1370809,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+05/11/2020,jp,5,1347163,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+12/11/2020,jp,4,1297246,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+19/11/2020,jp,5,1266365,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+26/11/2020,jp,6,1275707,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+03/12/2020,jp,9,1271492,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+10/12/2020,jp,9,1323953,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+17/12/2020,jp,9,1290689,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+24/12/2020,jp,9,1265266,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+31/12/2020,jp,8,1370483,4Jv7U0JJpbQnOrjtDwDZTZ,['Aimyon'],"['j-acoustic', 'j-pop']",296653,FALSE,裸の心
+27/12/2018,gb,9,3199878,3Z3QhZAZpqwZa1phsbQ3JZ,['Chris Rea'],"['mellow gold', 'soft rock', 'sophisti-pop', 'classic rock', 'album rock', 'art rock', 'blues rock']",240213,FALSE,Driving Home for Christmas
+21/02/2019,jp,8,218966,7DW5Dro8AHE7x19COl26E3,['Aimyon'],"['j-acoustic', 'j-pop']",205013,FALSE,満月の夜なら
+28/02/2019,jp,7,214941,7DW5Dro8AHE7x19COl26E3,['Aimyon'],"['j-acoustic', 'j-pop']",205013,FALSE,満月の夜なら
+07/03/2019,jp,8,192416,7DW5Dro8AHE7x19COl26E3,['Aimyon'],"['j-acoustic', 'j-pop']",205013,FALSE,満月の夜なら
+14/03/2019,jp,9,181980,7DW5Dro8AHE7x19COl26E3,['Aimyon'],"['j-acoustic', 'j-pop']",205013,FALSE,満月の夜なら
+21/03/2019,gb,9,1845622,03x2rVJRFUrvwlfxoHd9Mo,['Tom Walker'],"['pop', 'uk pop', 'indie anthem-folk']",174982,FALSE,Just You and I
+28/03/2019,gb,8,2005703,03x2rVJRFUrvwlfxoHd9Mo,['Tom Walker'],"['pop', 'uk pop', 'indie anthem-folk']",174982,FALSE,Just You and I
+04/04/2019,gb,8,2045010,03x2rVJRFUrvwlfxoHd9Mo,['Tom Walker'],"['pop', 'uk pop', 'indie anthem-folk']",174982,FALSE,Just You and I
+11/04/2019,gb,8,1983084,03x2rVJRFUrvwlfxoHd9Mo,['Tom Walker'],"['pop', 'uk pop', 'indie anthem-folk']",174982,FALSE,Just You and I
+18/04/2019,gb,7,2175736,03x2rVJRFUrvwlfxoHd9Mo,['Tom Walker'],"['pop', 'uk pop', 'indie anthem-folk']",174982,FALSE,Just You and I
+25/04/2019,gb,9,2176354,03x2rVJRFUrvwlfxoHd9Mo,['Tom Walker'],"['pop', 'uk pop', 'indie anthem-folk']",174982,FALSE,Just You and I
+02/01/2020,jp,9,484079,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+09/01/2020,jp,9,586523,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+20/02/2020,jp,9,726978,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+27/02/2020,jp,8,762012,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+05/03/2020,jp,8,742396,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+12/03/2020,jp,8,757958,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+19/03/2020,jp,8,752137,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+26/03/2020,jp,8,761964,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+02/04/2020,jp,8,710106,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+09/04/2020,jp,8,700546,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+16/04/2020,jp,8,693542,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+23/04/2020,jp,8,701889,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+30/04/2020,jp,9,706262,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+07/05/2020,jp,9,712107,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+14/05/2020,jp,10,697807,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+21/05/2020,jp,9,732405,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+28/05/2020,jp,8,762100,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+04/06/2020,jp,9,750732,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+11/06/2020,jp,10,748424,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+18/06/2020,jp,10,729833,23DbzwNJSLo7nkSWjODMvY,['LiSA'],"['anime rock', 'anime', 'j-pixie']",238586,FALSE,紅蓮華
+19/12/2019,gb,8,2353194,6Oq4fiDzKaFMU89dTvM24u,"['Stormzy', 'Headie One']","['uk hip hop', 'grime']",245920,TRUE,Audacity (feat. Headie One)
+04/04/2019,gb,7,2085142,3Fj47GNK2kUF0uaEDgXLaD,['Billie Eilish'],"['art pop', 'pop', 'electropop']",221543,FALSE,wish you were gay
+23/11/2017,gb,9,1781399,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+30/11/2017,gb,8,1810096,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+02/11/2017,jp,4,110180,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+09/11/2017,jp,4,119386,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+16/11/2017,jp,4,117985,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+23/11/2017,jp,4,120088,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+30/11/2017,jp,2,127963,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+07/12/2017,jp,3,126883,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+14/12/2017,jp,3,120310,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+21/12/2017,jp,3,121996,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+28/12/2017,jp,4,109163,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+04/01/2018,jp,5,100370,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+11/01/2018,jp,3,119912,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+18/01/2018,jp,4,134362,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+25/01/2018,jp,4,146029,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+01/02/2018,jp,4,132361,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+08/02/2018,jp,4,133678,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+15/02/2018,jp,5,126527,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+22/02/2018,jp,6,124338,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+01/03/2018,jp,7,123025,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+08/03/2018,jp,8,120629,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+15/03/2018,jp,8,118378,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+22/03/2018,jp,10,118022,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+29/03/2018,jp,9,122875,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+12/04/2018,jp,10,123083,7EmGUiUaOSGDnUUQUDrOXC,"['Selena Gomez', 'Marshmello']","['progressive electro house', 'pop', 'post-teen pop', 'pop dance', 'dance pop', 'brostep', 'edm']",197993,FALSE,Wolves
+11/10/2018,gb,8,1827245,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+18/10/2018,gb,7,2150600,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+25/10/2018,gb,7,2203691,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+01/11/2018,gb,7,2067541,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+08/11/2018,gb,6,2014405,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+15/11/2018,gb,5,2035739,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+22/11/2018,gb,4,1955502,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+29/11/2018,gb,4,1879720,5Fla3zyOCcIRqrDoKLU0DP,['Rita Ora'],"['pop rap', 'pop', 'uk pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house', 'edm']",191120,FALSE,Let You Love Me
+07/06/2018,jp,6,125311,4hQ6UGyWQIGJmHSo0J88JW,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",207904,FALSE,Back To You - From 13 Reasons Why – Season 2 Soundtrack
+14/06/2018,jp,4,138265,4hQ6UGyWQIGJmHSo0J88JW,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",207904,FALSE,Back To You - From 13 Reasons Why – Season 2 Soundtrack
+21/06/2018,jp,5,121831,4hQ6UGyWQIGJmHSo0J88JW,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",207904,FALSE,Back To You - From 13 Reasons Why – Season 2 Soundtrack
+28/06/2018,jp,9,120819,4hQ6UGyWQIGJmHSo0J88JW,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",207904,FALSE,Back To You - From 13 Reasons Why – Season 2 Soundtrack
+19/10/2017,gb,9,1771746,75ZvA4QfFiZvzhj2xkaWAh,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",223346,TRUE,I Fall Apart
+26/10/2017,gb,9,1798646,75ZvA4QfFiZvzhj2xkaWAh,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",223346,TRUE,I Fall Apart
+02/11/2017,gb,8,1757736,75ZvA4QfFiZvzhj2xkaWAh,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",223346,TRUE,I Fall Apart
+09/11/2017,gb,8,1761707,75ZvA4QfFiZvzhj2xkaWAh,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",223346,TRUE,I Fall Apart
+04/08/2016,gb,10,1721246,02WacdrRpm4zlP8H7X6bnQ,['Calum Scott'],"['pop', 'uk pop', 'neo mellow']",260004,FALSE,Dancing On My Own
+13/09/2018,jp,5,136607,6ceKChoZYLdw24Ph1CDFUJ,['TWICE'],"['k-pop girl group', 'k-pop']",197800,FALSE,BDZ
+20/09/2018,jp,4,171693,6ceKChoZYLdw24Ph1CDFUJ,['TWICE'],"['k-pop girl group', 'k-pop']",197800,FALSE,BDZ
+27/09/2018,jp,6,167902,6ceKChoZYLdw24Ph1CDFUJ,['TWICE'],"['k-pop girl group', 'k-pop']",197800,FALSE,BDZ
+04/10/2018,jp,9,133067,6ceKChoZYLdw24Ph1CDFUJ,['TWICE'],"['k-pop girl group', 'k-pop']",197800,FALSE,BDZ
+14/02/2019,gb,8,2648762,2hloaUoRonYssMuqLCBLTX,['Ariana Grande'],"['dance pop', 'pop']",216893,TRUE,bloodline
+03/11/2016,gb,9,1783847,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+10/11/2016,gb,2,2422241,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+17/11/2016,gb,1,2946696,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+24/11/2016,gb,2,3023766,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+01/12/2016,gb,1,2996690,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+08/12/2016,gb,1,2919841,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+15/12/2016,gb,1,2762446,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+22/12/2016,gb,1,2658070,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+29/12/2016,gb,2,2407098,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+05/01/2017,gb,1,2408710,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+12/01/2017,gb,3,2446938,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+19/01/2017,gb,3,2477284,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+26/01/2017,gb,6,2299474,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+02/02/2017,gb,6,2254215,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+09/02/2017,gb,7,2090419,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+16/02/2017,gb,10,1863593,5knuzwU65gJK7IF5yJsuaW,"['Clean Bandit', 'Sean Paul', 'Anne-Marie']","['pop rap', 'pop', 'uk funky', 'dancehall', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'edm', 'tropical house', 'post-teen pop']",251088,FALSE,Rockabye (feat. Sean Paul & Anne-Marie)
+10/11/2016,gb,8,1798220,6b8Be6ljOzmkOmFslEb23P,['Bruno Mars'],"['dance pop', 'pop']",225983,FALSE,24K Magic
+24/11/2016,gb,9,1985216,6b8Be6ljOzmkOmFslEb23P,['Bruno Mars'],"['dance pop', 'pop']",225983,FALSE,24K Magic
+04/01/2018,jp,8,94489,40cPkRjw5aLQIOjaqgUVnB,['SEKAI NO OWARI'],"['anime', 'j-pop']",306985,FALSE,RAIN
+04/02/2016,gb,5,1945552,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+11/02/2016,gb,4,2353069,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+18/02/2016,gb,4,2353499,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+25/02/2016,gb,4,2260068,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+03/03/2016,gb,4,2167406,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+10/03/2016,gb,5,2131765,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+17/03/2016,gb,5,2118707,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+24/03/2016,gb,6,2132222,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+31/03/2016,gb,6,2080827,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+07/04/2016,gb,6,1933085,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+14/04/2016,gb,6,1795907,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+21/04/2016,gb,8,1844069,6OZh916QF8XNunWaP97WEZ,"['Jonas Blue', 'Dakota']","['pop', 'uk pop', 'pop dance', 'uk dance', 'dance pop', 'tropical house', 'edm']",212424,FALSE,Fast Car
+23/08/2018,jp,8,125242,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+30/08/2018,jp,9,119422,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+06/09/2018,jp,7,122215,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+13/09/2018,jp,8,132747,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+20/09/2018,jp,10,140467,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+27/09/2018,jp,5,168982,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+04/10/2018,jp,5,145137,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+11/10/2018,jp,7,135906,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+18/10/2018,jp,5,140092,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+25/10/2018,jp,8,129185,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+01/11/2018,jp,10,130166,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+15/11/2018,jp,8,160695,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+22/11/2018,jp,6,180967,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+29/11/2018,jp,7,183567,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+06/12/2018,jp,8,177569,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+13/12/2018,jp,7,189175,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+20/12/2018,jp,4,202187,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+27/12/2018,jp,6,228416,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+03/01/2019,jp,4,250824,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+10/01/2019,jp,3,274619,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+17/01/2019,jp,3,269145,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+24/01/2019,jp,3,270693,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+31/01/2019,jp,3,268500,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+07/02/2019,jp,3,268326,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+14/02/2019,jp,3,269124,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+21/02/2019,jp,4,288011,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+28/02/2019,jp,3,302773,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+07/03/2019,jp,4,282727,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+14/03/2019,jp,3,273554,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+21/03/2019,jp,3,273339,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+28/03/2019,jp,3,268055,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+04/04/2019,jp,3,275509,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+11/04/2019,jp,2,313843,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+18/04/2019,jp,3,322853,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+25/04/2019,jp,3,326253,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+02/05/2019,jp,2,320878,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+09/05/2019,jp,3,323662,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+16/05/2019,jp,4,322194,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+23/05/2019,jp,5,324955,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+30/05/2019,jp,4,319311,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+06/06/2019,jp,4,318071,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+13/06/2019,jp,5,320789,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+20/06/2019,jp,5,338200,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+27/06/2019,jp,5,345298,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+04/07/2019,jp,5,358027,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+11/07/2019,jp,5,350184,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+18/07/2019,jp,6,351184,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+25/07/2019,jp,7,350082,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+01/08/2019,jp,7,355345,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+08/08/2019,jp,7,355729,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+15/08/2019,jp,7,351849,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+22/08/2019,jp,7,336075,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+29/08/2019,jp,7,337726,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+05/09/2019,jp,7,331860,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+12/09/2019,jp,10,342280,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+19/09/2019,jp,10,403079,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+26/09/2019,jp,10,377226,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+03/10/2019,jp,10,369100,59eluCMn0XbOWqeWQ91FTM,['Aimyon'],"['j-acoustic', 'j-pop']",246306,FALSE,君はロックを聴かない
+21/01/2016,gb,7,1289098,6TaqooOXAEcijL6G1AWS2K,"['Snakehips', 'Tinashe', 'Chance the Rapper']","['pop rap', 'pop', 'chicago rap', 'urban contemporary', 'conscious hip hop', 'rap', 'alternative r&b', 'post-teen pop', 'pop dance', 'metropopolis', 'r&b', 'electropop', 'dance pop', 'tropical house', 'hip hop', 'edm']",229746,TRUE,All My Friends (feat. Tinashe & Chance the Rapper)
+28/01/2016,gb,5,1579586,6TaqooOXAEcijL6G1AWS2K,"['Snakehips', 'Tinashe', 'Chance the Rapper']","['pop rap', 'pop', 'chicago rap', 'urban contemporary', 'conscious hip hop', 'rap', 'alternative r&b', 'post-teen pop', 'pop dance', 'metropopolis', 'r&b', 'electropop', 'dance pop', 'tropical house', 'hip hop', 'edm']",229746,TRUE,All My Friends (feat. Tinashe & Chance the Rapper)
+04/02/2016,gb,6,1761457,6TaqooOXAEcijL6G1AWS2K,"['Snakehips', 'Tinashe', 'Chance the Rapper']","['pop rap', 'pop', 'chicago rap', 'urban contemporary', 'conscious hip hop', 'rap', 'alternative r&b', 'post-teen pop', 'pop dance', 'metropopolis', 'r&b', 'electropop', 'dance pop', 'tropical house', 'hip hop', 'edm']",229746,TRUE,All My Friends (feat. Tinashe & Chance the Rapper)
+11/02/2016,gb,8,1755201,6TaqooOXAEcijL6G1AWS2K,"['Snakehips', 'Tinashe', 'Chance the Rapper']","['pop rap', 'pop', 'chicago rap', 'urban contemporary', 'conscious hip hop', 'rap', 'alternative r&b', 'post-teen pop', 'pop dance', 'metropopolis', 'r&b', 'electropop', 'dance pop', 'tropical house', 'hip hop', 'edm']",229746,TRUE,All My Friends (feat. Tinashe & Chance the Rapper)
+18/02/2016,gb,8,1693993,6TaqooOXAEcijL6G1AWS2K,"['Snakehips', 'Tinashe', 'Chance the Rapper']","['pop rap', 'pop', 'chicago rap', 'urban contemporary', 'conscious hip hop', 'rap', 'alternative r&b', 'post-teen pop', 'pop dance', 'metropopolis', 'r&b', 'electropop', 'dance pop', 'tropical house', 'hip hop', 'edm']",229746,TRUE,All My Friends (feat. Tinashe & Chance the Rapper)
+25/02/2016,gb,10,1531431,6TaqooOXAEcijL6G1AWS2K,"['Snakehips', 'Tinashe', 'Chance the Rapper']","['pop rap', 'pop', 'chicago rap', 'urban contemporary', 'conscious hip hop', 'rap', 'alternative r&b', 'post-teen pop', 'pop dance', 'metropopolis', 'r&b', 'electropop', 'dance pop', 'tropical house', 'hip hop', 'edm']",229746,TRUE,All My Friends (feat. Tinashe & Chance the Rapper)
+28/12/2017,gb,6,2680080,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+06/12/2018,gb,10,2004152,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+13/12/2018,gb,8,2234185,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+20/12/2018,gb,7,2635005,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+27/12/2018,gb,3,4190608,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+05/12/2019,gb,10,1824741,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+12/12/2019,gb,8,2065214,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+19/12/2019,gb,9,2230196,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+26/12/2019,gb,3,4065969,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+03/12/2020,gb,4,2613992,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+10/12/2020,gb,3,3191919,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+17/12/2020,gb,3,3227033,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+24/12/2020,gb,3,5160221,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+31/12/2020,gb,3,2743732,2EjXfH91m7f8HiJN1yQg97,['Brenda Lee'],"['adult standards', 'lounge', 'rockabilly', 'easy listening', 'brill building pop']",126266,FALSE,Rockin' Around The Christmas Tree
+05/07/2018,gb,8,2766105,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+12/07/2018,gb,3,3476229,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+19/07/2018,gb,1,5849578,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+26/07/2018,gb,1,5911999,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+02/08/2018,gb,1,5415957,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+09/08/2018,gb,1,5101074,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+16/08/2018,gb,1,4149071,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+23/08/2018,gb,1,3383019,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+30/08/2018,gb,2,2864970,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+06/09/2018,gb,5,2650325,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+13/09/2018,gb,5,2413074,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+20/09/2018,gb,6,2213305,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+27/09/2018,gb,7,1936988,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+04/10/2018,gb,9,1713066,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+19/07/2018,jp,10,121061,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+26/07/2018,jp,3,142118,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+02/08/2018,jp,3,152708,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+09/08/2018,jp,4,149367,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+16/08/2018,jp,6,138986,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+23/08/2018,jp,7,130747,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+30/08/2018,jp,10,118814,2G7V7zsVDxg1yRsu7Ew9RJ,['Drake'],"['canadian pop', 'toronto rap', 'canadian hip hop', 'hip hop', 'rap']",217925,TRUE,In My Feelings
+03/08/2017,gb,6,2076581,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+10/08/2017,gb,4,2509021,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+17/08/2017,gb,1,2870844,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+24/08/2017,gb,1,3157512,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+31/08/2017,gb,2,3310473,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+07/09/2017,gb,1,3203077,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+14/09/2017,gb,2,3068506,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+21/09/2017,gb,1,3046649,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+28/09/2017,gb,2,2889602,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+05/10/2017,gb,2,2745058,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+12/10/2017,gb,2,2672460,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+19/10/2017,gb,2,2572448,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+26/10/2017,gb,3,2466215,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+02/11/2017,gb,3,2382093,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+09/11/2017,gb,4,2268053,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+16/11/2017,gb,5,2171750,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+23/11/2017,gb,4,2129978,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+30/11/2017,gb,5,2003383,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+04/01/2018,gb,3,2079059,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+11/01/2018,gb,10,1569678,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+07/09/2017,jp,9,83739,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+14/09/2017,jp,8,87840,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+21/09/2017,jp,6,89539,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+28/09/2017,jp,6,89671,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+05/10/2017,jp,4,90530,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+12/10/2017,jp,4,88760,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+19/10/2017,jp,4,94887,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+26/10/2017,jp,6,97749,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+02/11/2017,jp,5,101349,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+09/11/2017,jp,6,105499,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+16/11/2017,jp,5,104186,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+23/11/2017,jp,5,101840,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+30/11/2017,jp,5,103739,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+07/12/2017,jp,5,105978,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+14/12/2017,jp,6,103948,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+21/12/2017,jp,9,101779,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+28/12/2017,jp,10,94447,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+04/01/2018,jp,9,92073,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+11/01/2018,jp,7,105719,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+18/01/2018,jp,9,108573,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+25/01/2018,jp,7,112240,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+01/02/2018,jp,8,110866,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+08/02/2018,jp,10,116010,2ekn2ttSfGqwhhate0LSR0,['Dua Lipa'],"['dance pop', 'pop', 'uk pop']",209320,FALSE,New Rules
+14/06/2018,gb,9,2032631,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+21/06/2018,gb,8,2227439,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+28/06/2018,gb,3,3095413,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+05/07/2018,gb,4,3467783,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+12/07/2018,gb,1,3893927,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+19/07/2018,gb,2,3731610,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+26/07/2018,gb,2,3933993,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+02/08/2018,gb,2,3550840,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+09/08/2018,gb,2,3419091,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+16/08/2018,gb,2,3360431,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+23/08/2018,gb,2,2689737,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+30/08/2018,gb,4,2524617,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+06/09/2018,gb,7,2231589,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+13/09/2018,gb,8,2018189,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+20/09/2018,gb,10,1948271,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+03/01/2019,gb,8,1451099,4ofwffwvvnbSkrMSCKQDaC,['George Ezra'],"['folk-pop', 'neo-singer-songwriter']",201287,FALSE,Shotgun
+15/02/2018,gb,5,2486211,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+22/02/2018,gb,2,2846830,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+01/03/2018,gb,4,2824435,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+08/03/2018,gb,6,2547152,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+15/03/2018,gb,6,2446186,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+22/03/2018,gb,6,2175842,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+29/03/2018,gb,10,2069248,3GCdLUSnKSMJhs4Tj6CV3s,"['Kendrick Lamar', 'SZA']","['pop', 'conscious hip hop', 'west coast rap', 'r&b', 'hip hop', 'rap']",232186,TRUE,All The Stars (with SZA)
+09/05/2019,gb,9,2124352,2MuMD298IpYqKF367wegUd,"['Logic', 'Eminem']","['pop rap', 'detroit hip hop', 'conscious hip hop', 'dmv rap', 'hip hop', 'rap']",245386,TRUE,Homicide (feat. Eminem)
+10/10/2019,jp,10,374086,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+17/10/2019,jp,9,374685,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+24/10/2019,jp,8,433578,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+31/10/2019,jp,8,437529,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+07/11/2019,jp,9,444797,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+14/11/2019,jp,8,463958,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+21/11/2019,jp,7,496735,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+28/11/2019,jp,7,521369,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+05/12/2019,jp,7,541028,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+12/12/2019,jp,7,510811,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+19/12/2019,jp,8,530277,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+26/12/2019,jp,9,548506,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+02/01/2020,jp,8,572210,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+09/01/2020,jp,7,627011,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+16/01/2020,jp,8,646279,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+23/01/2020,jp,8,674864,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+30/01/2020,jp,9,677665,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+06/02/2020,jp,8,693883,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+13/02/2020,jp,7,752401,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+20/02/2020,jp,7,764328,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+27/02/2020,jp,7,781974,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+05/03/2020,jp,6,784786,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+12/03/2020,jp,6,834264,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+19/03/2020,jp,6,871599,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+26/03/2020,jp,6,893322,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+02/04/2020,jp,6,847904,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+09/04/2020,jp,6,822388,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+16/04/2020,jp,6,811790,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+23/04/2020,jp,6,790547,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+30/04/2020,jp,6,812989,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+07/05/2020,jp,6,776441,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+14/05/2020,jp,8,756611,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+21/05/2020,jp,8,750084,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+28/05/2020,jp,7,767475,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+04/06/2020,jp,7,781503,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+11/06/2020,jp,7,796689,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+18/06/2020,jp,8,793954,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+25/06/2020,jp,8,836192,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+02/07/2020,jp,9,822799,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+09/07/2020,jp,10,830392,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+30/07/2020,jp,10,937173,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+13/08/2020,jp,10,1023616,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+20/08/2020,jp,8,1086429,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+27/08/2020,jp,9,1062390,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+03/09/2020,jp,10,1064482,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+10/09/2020,jp,10,1032095,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+17/09/2020,jp,9,1049663,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+24/09/2020,jp,10,1096207,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+01/10/2020,jp,10,1090429,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+08/10/2020,jp,10,1107254,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+15/10/2020,jp,10,1079987,278JqkBGkjDovOYAwE8TW7,['Official HIGE DANdism'],"['anime rock', 'anime', 'j-pop']",324633,FALSE,115万キロのフィルム
+05/10/2017,gb,8,1827129,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+12/10/2017,gb,7,1928809,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+19/10/2017,gb,7,1923752,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+26/10/2017,gb,6,1910224,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+02/11/2017,gb,6,1907138,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+09/11/2017,gb,7,1806163,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+26/04/2018,jp,8,150046,2OALaHcDdKkjYEpAr0Qzab,"['Avicii', 'Rita Ora']","['pop rap', 'pop', 'uk pop', 'post-teen pop', 'pop dance', 'electropop', 'dance pop', 'tropical house', 'edm']",181812,FALSE,Lonely Together (feat. Rita Ora)
+22/06/2017,gb,2,3576489,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+29/06/2017,gb,1,4490240,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+06/07/2017,gb,1,4414317,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+13/07/2017,gb,1,4017695,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+20/07/2017,gb,1,3752527,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+27/07/2017,gb,2,3406637,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+03/08/2017,gb,2,3070638,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+10/08/2017,gb,1,2869845,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+17/08/2017,gb,3,2680305,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+24/08/2017,gb,4,2383488,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+31/08/2017,gb,5,2245379,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+07/09/2017,gb,7,1958843,1OAh8uOEOvTDqkKFsKksCi,"['DJ Khaled', 'Rihanna', 'Bryson Tiller']","['pop rap', 'southern hip hop', 'pop', 'urban contemporary', 'kentucky hip hop', 'barbadian pop', 'miami hip hop', 'r&b', 'dance pop', 'trap', 'hip hop', 'rap']",204173,TRUE,Wild Thoughts (feat. Rihanna & Bryson Tiller)
+02/06/2016,gb,9,1678862,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+09/06/2016,gb,8,1791365,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+16/06/2016,gb,7,1755792,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+23/06/2016,gb,7,1824381,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+30/06/2016,gb,7,1759948,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+07/07/2016,gb,7,1756025,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+14/07/2016,gb,9,1618688,5ZEM9j0jrFr5RdHEbl2MYV,"['Cheat Codes', 'Kris Kross Amsterdam']","['dutch pop', 'pop', 'uk pop', 'dutch house', 'post-teen pop', 'pop dance', 'electro house', 'electropop', 'dance pop', 'tropical house', 'pop edm', 'edm']",228361,TRUE,Sex
+16/11/2017,jp,9,95948,32DGGj6KlNuBr6WaqRxpxi,['Charlie Puth'],"['dance pop', 'viral pop', 'pop']",198237,FALSE,How Long
+23/11/2017,jp,8,97173,32DGGj6KlNuBr6WaqRxpxi,['Charlie Puth'],"['dance pop', 'viral pop', 'pop']",198237,FALSE,How Long
+30/11/2017,jp,8,97394,32DGGj6KlNuBr6WaqRxpxi,['Charlie Puth'],"['dance pop', 'viral pop', 'pop']",198237,FALSE,How Long
+07/12/2017,jp,9,97089,32DGGj6KlNuBr6WaqRxpxi,['Charlie Puth'],"['dance pop', 'viral pop', 'pop']",198237,FALSE,How Long
+01/11/2018,jp,1,207217,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+08/11/2018,jp,1,252381,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+15/11/2018,jp,1,312348,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+22/11/2018,jp,1,334917,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+29/11/2018,jp,1,340847,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+06/12/2018,jp,1,313325,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+13/12/2018,jp,1,288668,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+20/12/2018,jp,1,304071,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+27/12/2018,jp,2,303491,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+03/01/2019,jp,1,291906,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+10/01/2019,jp,1,351166,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+17/01/2019,jp,1,356088,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+24/01/2019,jp,1,350699,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+31/01/2019,jp,1,338512,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+07/02/2019,jp,1,330672,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+14/02/2019,jp,2,345915,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+21/02/2019,jp,2,366127,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+28/02/2019,jp,2,351536,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+07/03/2019,jp,2,320830,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+14/03/2019,jp,2,302506,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+21/03/2019,jp,2,292841,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+28/03/2019,jp,2,283243,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+04/04/2019,jp,2,282431,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+11/04/2019,jp,4,302171,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+18/04/2019,jp,4,305617,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+25/04/2019,jp,4,305990,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+02/05/2019,jp,6,293474,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+09/05/2019,jp,5,285970,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+16/05/2019,jp,5,287615,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+23/05/2019,jp,6,292317,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+30/05/2019,jp,6,286700,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+06/06/2019,jp,5,283468,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+13/06/2019,jp,6,287319,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+20/06/2019,jp,6,299355,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+27/06/2019,jp,7,305251,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+04/07/2019,jp,6,314033,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+11/07/2019,jp,7,306136,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+18/07/2019,jp,8,301883,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+25/07/2019,jp,10,300273,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+01/08/2019,jp,9,303269,6kKvmT4i0Dercz6f3kftg3,['Aimyon'],"['j-acoustic', 'j-pop']",238093,FALSE,今夜このまま
+23/01/2020,gb,7,2380400,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+30/01/2020,gb,3,2828246,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+06/02/2020,gb,2,3233979,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+13/02/2020,gb,2,3467513,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+20/02/2020,gb,3,3415669,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+27/02/2020,gb,1,3523878,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+05/03/2020,gb,1,3472057,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+12/03/2020,gb,1,3241624,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+19/03/2020,gb,1,3089394,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+26/03/2020,gb,1,4116878,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+02/04/2020,gb,1,3640731,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+09/04/2020,gb,2,3994651,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+16/04/2020,gb,1,3827087,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+23/04/2020,gb,1,3481577,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+30/04/2020,gb,1,3054524,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+07/05/2020,gb,2,2899589,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+14/05/2020,gb,2,2795441,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+21/05/2020,gb,2,2731781,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+28/05/2020,gb,3,2657609,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+04/06/2020,gb,3,2587402,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+11/06/2020,gb,3,2149420,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+18/06/2020,gb,3,2258800,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+25/06/2020,gb,3,2278742,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+02/07/2020,gb,6,1966407,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+09/07/2020,gb,6,1956100,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+16/07/2020,gb,8,1936949,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+23/07/2020,gb,7,1912310,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+06/08/2020,gb,8,1861096,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+13/08/2020,gb,10,1842254,0VjIjW4GlUZAMYd2vXMi3b,['The Weeknd'],"['canadian contemporary r&b', 'pop', 'canadian pop']",200040,FALSE,Blinding Lights
+05/03/2020,gb,9,2032260,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+12/03/2020,gb,5,2013354,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+19/03/2020,gb,5,1839891,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+26/03/2020,gb,4,1907357,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+02/04/2020,gb,8,1768202,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+09/04/2020,gb,10,1954866,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+16/04/2020,gb,6,2063174,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+23/04/2020,gb,6,1940999,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+30/04/2020,gb,8,1830203,3Dv1eDb0MEgF93GpLXlucZ,['Doja Cat'],"['dance pop', 'pop']",237893,TRUE,Say So
+29/12/2016,gb,7,1708128,2TE4xW3ImvpltVU0cPcKUn,"[""Shakin' Stevens""]","['classic uk pop', 'rock-and-roll', 'new wave pop', 'soft rock', 'rockabilly']",220160,FALSE,Merry Christmas Everyone
+26/12/2019,gb,9,3222783,2TE4xW3ImvpltVU0cPcKUn,"[""Shakin' Stevens""]","['classic uk pop', 'rock-and-roll', 'new wave pop', 'soft rock', 'rockabilly']",220160,FALSE,Merry Christmas Everyone
+05/05/2016,gb,2,3016582,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+12/05/2016,gb,2,3703619,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+19/05/2016,gb,2,3449842,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+26/05/2016,gb,2,3118775,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+02/06/2016,gb,2,3003646,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+09/06/2016,gb,2,2699163,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+16/06/2016,gb,3,2280042,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+23/06/2016,gb,3,2266155,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+30/06/2016,gb,3,2201115,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+07/07/2016,gb,3,2180861,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+14/07/2016,gb,3,2154838,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+21/07/2016,gb,3,2261684,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+28/07/2016,gb,6,2211564,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+04/08/2016,gb,7,2060373,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+11/08/2016,gb,8,1879099,0azC730Exh71aQlOt9Zj3y,"['Calvin Harris', 'Rihanna']","['pop', 'urban contemporary', 'barbadian pop', 'progressive house', 'electro house', 'house', 'uk dance', 'dance pop', 'edm']",222160,FALSE,This Is What You Came For
+28/09/2017,gb,8,1812965,638s8Qi75q1pXjuH86fJX7,"['Yungen', 'Yxng Bane']","['uk dancehall', 'london rap', 'uk hip hop', 'afroswing', 'grime']",219165,TRUE,Bestie (feat. Yxng Bane)
+05/10/2017,gb,7,1842116,638s8Qi75q1pXjuH86fJX7,"['Yungen', 'Yxng Bane']","['uk dancehall', 'london rap', 'uk hip hop', 'afroswing', 'grime']",219165,TRUE,Bestie (feat. Yxng Bane)
+12/10/2017,gb,8,1891732,638s8Qi75q1pXjuH86fJX7,"['Yungen', 'Yxng Bane']","['uk dancehall', 'london rap', 'uk hip hop', 'afroswing', 'grime']",219165,TRUE,Bestie (feat. Yxng Bane)
+19/10/2017,gb,8,1791717,638s8Qi75q1pXjuH86fJX7,"['Yungen', 'Yxng Bane']","['uk dancehall', 'london rap', 'uk hip hop', 'afroswing', 'grime']",219165,TRUE,Bestie (feat. Yxng Bane)
+26/10/2017,gb,10,1711574,638s8Qi75q1pXjuH86fJX7,"['Yungen', 'Yxng Bane']","['uk dancehall', 'london rap', 'uk hip hop', 'afroswing', 'grime']",219165,TRUE,Bestie (feat. Yxng Bane)
+30/07/2020,gb,10,1919731,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+06/08/2020,gb,4,2207703,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+13/08/2020,gb,4,2347849,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+20/08/2020,gb,4,2211905,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+27/08/2020,gb,5,2138214,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+03/09/2020,gb,5,2154661,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+10/09/2020,gb,6,2107705,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+17/09/2020,gb,5,2098854,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+24/09/2020,gb,7,1949423,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+01/10/2020,gb,9,1773201,5lWUeSYO61UYgNlFlqcwYl,"['Nathan Dawe', 'KSI']","['uk pop', 'uk dance', 'post-teen pop', 'uk hip hop', 'pop dance', 'house', 'tropical house', 'dance pop']",182439,FALSE,Lighter (feat. KSI)
+19/05/2016,gb,10,1615388,2Fn3coxd0xAZ09JtrgcgHa,"['DJ Snake', 'Bipolar Sunshine']","['pop rap', 'gauze pop', 'pop', 'pop dance', 'electronic trap', 'dance pop', 'edm']",220573,FALSE,Middle
+26/05/2016,gb,10,1576768,2Fn3coxd0xAZ09JtrgcgHa,"['DJ Snake', 'Bipolar Sunshine']","['pop rap', 'gauze pop', 'pop', 'pop dance', 'electronic trap', 'dance pop', 'edm']",220573,FALSE,Middle
+31/10/2019,gb,4,2366346,1HfMVBKM75vxSfsQ5VefZ5,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",206458,FALSE,Lose You To Love Me
+07/11/2019,gb,6,1882515,1HfMVBKM75vxSfsQ5VefZ5,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",206458,FALSE,Lose You To Love Me
+14/11/2019,gb,9,1717022,1HfMVBKM75vxSfsQ5VefZ5,['Selena Gomez'],"['dance pop', 'pop', 'post-teen pop']",206458,FALSE,Lose You To Love Me
+12/10/2017,gb,10,1615093,5XQMr19TL7Mfksq9zihbOu,['Chris Brown'],"['dance pop', 'r&b', 'pop']",129477,FALSE,Questions
+22/12/2016,gb,9,1776169,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+29/12/2016,gb,4,1884886,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+07/12/2017,gb,6,2177214,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+14/12/2017,gb,4,2272825,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+21/12/2017,gb,5,2484401,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+28/12/2017,gb,3,3250592,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+06/12/2018,gb,7,2110408,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+13/12/2018,gb,5,2431028,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+20/12/2018,gb,4,2960723,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+27/12/2018,gb,5,4094004,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+26/12/2019,gb,5,3750669,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+03/12/2020,gb,10,1996314,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+10/12/2020,gb,8,2454328,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+17/12/2020,gb,9,2451841,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+24/12/2020,gb,10,3753211,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+31/12/2020,gb,10,2047272,3VTNVsTTu05dmTsVFrmGpK,"['The Pogues', 'Kirsty MacColl']","['irish folk', 'punk', 'classic uk pop', 'celtic rock', 'celtic punk', 'new wave pop', 'folk punk', 'celtic']",272466,FALSE,Fairytale of New York (feat. Kirsty MacColl)
+07/12/2017,jp,10,95048,5AEtlRudpgdT5FtNiuly6Y,"['Hailee Steinfeld', 'Alesso', 'Florida Georgia Line', 'WATT']","['modern alternative rock', 'country pop', 'pop', 'contemporary country', 'post-teen pop', 'pop dance', 'electro house', 'country', 'country road', 'modern country rock', 'dance pop', 'edm', 'tropical house', 'uk pop']",174800,FALSE,"Let Me Go (with Alesso, Florida Georgia Line & watt)"
+25/01/2018,jp,6,113257,5AEtlRudpgdT5FtNiuly6Y,"['Hailee Steinfeld', 'Alesso', 'Florida Georgia Line', 'WATT']","['modern alternative rock', 'country pop', 'pop', 'contemporary country', 'post-teen pop', 'pop dance', 'electro house', 'country', 'country road', 'modern country rock', 'dance pop', 'edm', 'tropical house', 'uk pop']",174800,FALSE,"Let Me Go (with Alesso, Florida Georgia Line & watt)"
+01/02/2018,jp,7,114870,5AEtlRudpgdT5FtNiuly6Y,"['Hailee Steinfeld', 'Alesso', 'Florida Georgia Line', 'WATT']","['modern alternative rock', 'country pop', 'pop', 'contemporary country', 'post-teen pop', 'pop dance', 'electro house', 'country', 'country road', 'modern country rock', 'dance pop', 'edm', 'tropical house', 'uk pop']",174800,FALSE,"Let Me Go (with Alesso, Florida Georgia Line & watt)"
+08/02/2018,jp,8,120066,5AEtlRudpgdT5FtNiuly6Y,"['Hailee Steinfeld', 'Alesso', 'Florida Georgia Line', 'WATT']","['modern alternative rock', 'country pop', 'pop', 'contemporary country', 'post-teen pop', 'pop dance', 'electro house', 'country', 'country road', 'modern country rock', 'dance pop', 'edm', 'tropical house', 'uk pop']",174800,FALSE,"Let Me Go (with Alesso, Florida Georgia Line & watt)"
+15/02/2018,jp,7,113543,5AEtlRudpgdT5FtNiuly6Y,"['Hailee Steinfeld', 'Alesso', 'Florida Georgia Line', 'WATT']","['modern alternative rock', 'country pop', 'pop', 'contemporary country', 'post-teen pop', 'pop dance', 'electro house', 'country', 'country road', 'modern country rock', 'dance pop', 'edm', 'tropical house', 'uk pop']",174800,FALSE,"Let Me Go (with Alesso, Florida Georgia Line & watt)"
+22/02/2018,jp,10,109309,5AEtlRudpgdT5FtNiuly6Y,"['Hailee Steinfeld', 'Alesso', 'Florida Georgia Line', 'WATT']","['modern alternative rock', 'country pop', 'pop', 'contemporary country', 'post-teen pop', 'pop dance', 'electro house', 'country', 'country road', 'modern country rock', 'dance pop', 'edm', 'tropical house', 'uk pop']",174800,FALSE,"Let Me Go (with Alesso, Florida Georgia Line & watt)"
+19/07/2018,gb,9,2530694,5OCJzvD7sykQEKHH7qAC3C,['Ariana Grande'],"['dance pop', 'pop']",197546,TRUE,God is a woman
+16/08/2018,gb,10,1886291,5OCJzvD7sykQEKHH7qAC3C,['Ariana Grande'],"['dance pop', 'pop']",197546,TRUE,God is a woman
+23/08/2018,gb,3,2637370,5OCJzvD7sykQEKHH7qAC3C,['Ariana Grande'],"['dance pop', 'pop']",197546,TRUE,God is a woman
+30/08/2018,gb,6,2272415,5OCJzvD7sykQEKHH7qAC3C,['Ariana Grande'],"['dance pop', 'pop']",197546,TRUE,God is a woman
+03/03/2016,gb,7,1860752,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+10/03/2016,gb,3,2305767,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+17/03/2016,gb,3,2534009,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+24/03/2016,gb,1,2836611,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+31/03/2016,gb,1,2876529,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+07/04/2016,gb,1,2794201,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+14/04/2016,gb,1,2648245,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+21/04/2016,gb,2,2701564,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+28/04/2016,gb,2,2587696,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+05/05/2016,gb,3,2573479,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+12/05/2016,gb,3,2553944,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+19/05/2016,gb,5,2283605,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+26/05/2016,gb,6,2126648,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+02/06/2016,gb,6,2109041,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+09/06/2016,gb,6,2006467,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+16/06/2016,gb,9,1706977,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+23/06/2016,gb,10,1652035,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+07/07/2016,gb,10,1552737,7vfWgVGiLgnGbInU5lvSQg,"['Mike Posner', 'Seeb']","['pop rap', 'pop', 'norwegian pop', 'uk pop', 'pop dance', 'electro house', 'dance pop', 'tropical house', 'pop edm', 'edm']",199226,TRUE,I Took A Pill In Ibiza - Seeb Remix
+15/11/2018,jp,10,155022,7e8IV4U2LdP7p7uJ83EZmh,['Nogizaka46'],"['j-pop girl group', 'j-idol', 'j-pop']",269706,FALSE,帰り道は遠回りしたくなる
+02/07/2020,jp,10,753475,4SFknyjLcyTLJFPKD2m96o,['BLACKPINK'],"['k-pop girl group', 'k-pop']",182956,FALSE,How You Like That
+12/09/2019,gb,2,2832649,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+19/09/2019,gb,5,2368266,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+26/09/2019,gb,6,2126610,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+03/10/2019,gb,6,2097301,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+10/10/2019,gb,6,2245501,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+17/10/2019,gb,4,2249604,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+24/10/2019,gb,3,2159465,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+31/10/2019,gb,5,2234025,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+07/11/2019,gb,4,2167084,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+14/11/2019,gb,4,2100134,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+21/11/2019,gb,6,2038500,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+28/11/2019,gb,9,1860524,21jGcNKet2qwijlDFuPiPb,['Post Malone'],"['melodic rap', 'dfw rap', 'rap']",215280,FALSE,Circles
+12/10/2017,jp,9,79494,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+19/10/2017,jp,7,84259,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+26/10/2017,jp,7,90651,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+02/11/2017,jp,9,90676,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+09/11/2017,jp,9,99860,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+16/11/2017,jp,7,101366,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+23/11/2017,jp,6,99968,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+30/11/2017,jp,7,98679,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+07/12/2017,jp,7,101063,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+14/12/2017,jp,5,108431,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+21/12/2017,jp,6,103909,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+28/12/2017,jp,9,96613,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+04/01/2018,jp,10,88399,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+01/02/2018,jp,6,127078,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+08/02/2018,jp,7,122533,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+15/02/2018,jp,6,122465,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+22/02/2018,jp,8,116399,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+01/03/2018,jp,9,116648,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+08/03/2018,jp,10,111159,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+10/05/2018,jp,9,124241,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+17/05/2018,jp,10,121434,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+24/05/2018,jp,5,131328,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+31/05/2018,jp,7,120974,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+07/06/2018,jp,9,115691,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+14/06/2018,jp,8,121370,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+21/06/2018,jp,6,121237,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+28/06/2018,jp,4,132016,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+05/07/2018,jp,4,135520,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+12/07/2018,jp,4,132174,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+19/07/2018,jp,6,129448,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+26/07/2018,jp,6,130234,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+02/08/2018,jp,7,126120,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+09/08/2018,jp,7,125440,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+16/08/2018,jp,8,125475,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
+06/09/2018,jp,8,115581,2gasr6aemUqZIBBN05EO03,['Shota Shimizu'],['j-pop'],270866,FALSE,My Boo
