@@ -1,0 +1,1 @@
+There are 2 notebooks and 2 Spotify datasets. One is top 10 and top 20 and the other is top 10. Top 10 is for this: Notebook with model for energy + simulated values + evaluation and discussion of the model
